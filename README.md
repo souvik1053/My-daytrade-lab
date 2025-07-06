@@ -1,4 +1,4 @@
-# 📈 My-daytrade-lab – A Smart Backtesting Strategy with Streamlit
+# 📈 My-daytrade-lab – A Smart Backtesting Strategy
 
 This project implements a backtesting tool for a high-probability trading strategy that enters trades at the **71% Fibonacci retracement level** after a **Break of Structure (BoS)** confirmation. It's designed for Forex and adaptable to other asset classes like crypto or indices.
 
