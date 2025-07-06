@@ -26,3 +26,6 @@ Built with **Python, Streamlit, Plotly**, and **Pandas** — this tool lets you 
 - ✅ Works with any asset (Forex, Crypto, Stocks) if in correct format
 
 ---
+
+## 🌍 Try It Live
+ Link: https://my-daytrade-lab.streamlit.app/
